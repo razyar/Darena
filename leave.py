@@ -4,10 +4,10 @@ Github.com/jadijadi
 '''
 import sys
 import pickle
+#....
 
 
-
-fileinput = 'data.kos'
+fileinput = 'data.kos';
 
 
 alphabet = 'abcdefghijklmnopqrstuvwxyz'

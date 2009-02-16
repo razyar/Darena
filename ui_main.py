@@ -15,6 +15,7 @@ from PySide2.QtWidgets import *
 from tkinter import Tk     # from tkinter import Tk for Python 3.x
 from tkinter.filedialog import askopenfilename
 from shutil import copyfile
+import pickle
 
 path = os.getcwd()
 sys.path.append(path)
@@ -262,31 +263,89 @@ class Ui_MainWindow(object):
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
         MainWindow.setWindowTitle(_translate("MainWindow", "Darena"))
-    
+
 
 
     def client(self):
+        alphabet = 'abcdefghijklmnopqrstuvwxyz'
+
+        f = open('./settings.leave', 'rb')
+        global rotor1
+        global rotor2 
+        global rotor3
+        rotor1, rotor2, rotor3 = pickle.load(f)
+        f.close()
+
+
+        print("Your settings:\n\trotor1: %s\n\trotor2: %s\n\trotor3: %s" % (rotor1, rotor2, rotor3))
+
+        def reflector(char):
+            return alphabet[len(alphabet)-alphabet.find(char)-1]
+
+
+
+        def enigma_one_char(char):
+            char1 = rotor1[alphabet.find(char)]
+            char2 = rotor2[alphabet.find(char1)]
+            char3 = rotor3[alphabet.find(char2)]
+            reflected = reflector(char3)
+            char3 = alphabet[rotor3.find(reflected)]
+            char2 = alphabet[rotor2.find(char3)]
+            char1 = alphabet[rotor1.find(char2)]
+
+            return char1
+
+        def rotate_rotors():
+            global rotor1, rotor2, rotor3
+            rotor1 = rotor1[1:] + rotor1[0]
+            if state % 26:
+                rotor2 = rotor2[1:] + rotor2[0]
+            if state % (26*26):
+                rotor3 = rotor3 [1:] + rotor3[0] 
+
+
+
+
+        plain = self.lineEdit.text()
+
+
+        cipher = ''
+        state = 0
+
+
+        for char in plain:
+            state += 1
+            cipher += enigma_one_char(char)
+            rotate_rotors()
+
+
+        print('\n[Secret]: %s' % cipher)
+
+
+
+        #END LEAVE
         HEADER_LENGTH = 10
 
-        IP = "your server"
+        IP = "194.5.178.42"
         PORT = 1234
-        my_username = "razyar saeedian"
+        my_username = "Anonymous"
 
 
         client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
 
         client_socket.connect((IP, PORT))
-        print('connected')
+        print('____________________________')
+        print('Connection Status: Connected')
 
         client_socket.setblocking(False)
 
         username = my_username.encode('utf-8')
-        print('debug 1 passed')
+        print('Your Username: %s' % my_username)
         username_header = f"{len(username):<{HEADER_LENGTH}}".encode('utf-8')
-        print('debug 2 passed')
         client_socket.send(username_header + username)
-        print('debug 3 passed')
+        print('Leave status: ON')
+        print('____________________________')
         while self.lineEdit.text():
             try:
                 
@@ -298,6 +357,7 @@ class Ui_MainWindow(object):
                     QtGui.QMessageBox.information(None, 'info', messages.errorString())
                 stream_messages = QtCore.QTextStream(messages)
                 self.label_5.setText(stream_messages.readAll())
+                encmessage = str(cipher)
                 message = message.encode('utf-8')
                 message_header = f"{len(message):<{HEADER_LENGTH}}".encode('utf-8')
                 client_socket.send(message_header + message)
