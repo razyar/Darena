@@ -268,7 +268,7 @@ class Ui_MainWindow(object):
     def client(self):
         HEADER_LENGTH = 10
 
-        IP = "194.5.178.42"
+        IP = "your server"
         PORT = 1234
         my_username = "razyar saeedian"
 
