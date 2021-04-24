@@ -16,11 +16,6 @@ Darena dosen't have any public or official server itself. you can run it on your
 Pepole who using Darena, can add their friends or family.
 
 
-# DarkNet and Darena?
-
-```
-  Maybe
-```
 
 # Personal Protocol
 ```
