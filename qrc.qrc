@@ -1,0 +1,349 @@
+<RCC>
+  <qresource prefix="1">
+    <file>icons/main/refreshing.png</file>
+    <file>icons/main/button-refresh-arrow.png</file>
+    <file>icons/Contacts/126273569_3504157566300479_6647481170704799879_n.png</file>
+    <file>icons/Contacts/photo_2020-04-04_23-02-52.png</file>
+    <file>icons/Contacts/photo_2021-02-10_19-15-11-ConvertImage.png</file>
+    <file>icons/Contacts/photo_2021-02-15_13-24-42.png</file>
+    <file>icons/Contacts/photo_2021-02-18_05-51-08.png</file>
+    <file>icons/main/search-square-alternate.png</file>
+    <file>icons/main/search-square-alternate.png</file>
+    <file>icons/podcasts/podcast.png</file>
+    <file>icons/header/photo_2021-02-15_13-24-42.png</file>
+    <file>icons/header/Screenshot (21).png</file>
+    <file>icons/header/Screenshot (22).png</file>
+    <file>icons/main/cil-check.png</file>
+    <file>icons/main/cil-check-alt.png</file>
+    <file>icons/main/cil-cursor.png</file>
+    <file>icons/main/cil-link.png</file>
+    <file>icons/main/cil-menu.png</file>
+    <file>icons/main/cil-paperclip.png</file>
+    <file>icons/main/cil-paper-plane.png</file>
+    <file>icons/podcasts/microphone-podcast-person.png</file>
+    <file>bigjohnpro-bold.otf</file>
+    <file>icons/photo_2021-02-15_13-24-42.png</file>
+    <file>icons/menu/Screenshot (46).png</file>
+    <file>icons/menu/Screenshot (42).png</file>
+    <file>icons/menu/Screenshot (43).png</file>
+    <file>icons/Contacts/126273569_3504157566300479_6647481170704799879_n.png</file>
+    <file>icons/Contacts/photo_2020-04-04_23-02-52.png</file>
+    <file>icons/Contacts/photo_2021-02-10_19-15-11-ConvertImage.png</file>
+    <file>icons/Contacts/photo_2021-02-15_13-24-42.png</file>
+    <file>icons/Contacts/photo_2021-02-18_05-51-08.png</file>
+    <file>icons/Contacts/IMG_20210210_181147 - Copy.bmp</file>
+    <file>icons/Contacts/IMG_20210210_181147---Copy-ConvertImage.jpg</file>
+    <file>icons/Contacts/photo_2021-02-10_19-15-11-ConvertImage.jpg</file>
+    <file>icons/Contacts/photo_2021-02-15_13-24-42.png</file>
+    <file>icons/menu/image(1).png</file>
+    <file>icons/menu/image(2).png</file>
+    <file>icons/menu/image(3).png</file>
+    <file>icons/menu/image.png</file>
+    <file>icons/Backgrounds/0bc7c93ca574adc4d9049800c765f2ef.jpg</file>
+    <file>icons/Backgrounds/1cfc9e64a097a5f5a31389fe583563a9.jpg</file>
+    <file>icons/Backgrounds/2b9f1919d9ee50fc5784b3339b06ab35.jpg</file>
+    <file>icons/Backgrounds/4ed167554b47958c93558dfb4700bec8.jpg</file>
+    <file>icons/Backgrounds/22f9ac7cd2eeec31cf296bb991daa89b.jpg</file>
+    <file>icons/Backgrounds/9340c174fee0a1971f1fe777854d233e.jpg</file>
+    <file>icons/Backgrounds/bg1.png</file>
+    <file>icons/Backgrounds/bg2.png</file>
+    <file>icons/Backgrounds/cool-background(1).svg</file>
+    <file>icons/Backgrounds/cool-background(2).svg</file>
+    <file>icons/Backgrounds/cool-background(3).svg</file>
+    <file>icons/Backgrounds/cool-background.png</file>
+    <file>icons/Backgrounds/cool-background.svg</file>
+    <file>icons/Backgrounds/d820a964e2483ee0e03e930f6f68dd20.jpg</file>
+    <file>icons/Backgrounds/e44462dc8162df0c955b1f2d8363adc9.jpg</file>
+    <file>icons/Backgrounds/Mediamodifier-Design-Template.png</file>
+    <file>icons/Backgrounds/Screenshot (24).png</file>
+    <file>icons/Backgrounds/Screenshot (25).png</file>
+    <file>icons/Backgrounds/Screenshot (26).png</file>
+    <file>icons/Backgrounds/Screenshot (27).png</file>
+    <file>icons/Backgrounds/white-canyon-6c5d2a4c.jpg</file>
+    <file>icons/Backgrounds/0bc7c93ca574adc4d9049800c765f2ef.jpg</file>
+    <file>icons/Backgrounds/1cfc9e64a097a5f5a31389fe583563a9.jpg</file>
+    <file>icons/Backgrounds/2b9f1919d9ee50fc5784b3339b06ab35.jpg</file>
+    <file>icons/Backgrounds/4ed167554b47958c93558dfb4700bec8.jpg</file>
+    <file>icons/Backgrounds/22f9ac7cd2eeec31cf296bb991daa89b.jpg</file>
+    <file>icons/Backgrounds/9340c174fee0a1971f1fe777854d233e.jpg</file>
+    <file>icons/Backgrounds/bg1.png</file>
+    <file>icons/Backgrounds/bg2.png</file>
+    <file>icons/Backgrounds/cool-background.png</file>
+    <file>icons/Backgrounds/cool-background.svg</file>
+    <file>icons/Backgrounds/d820a964e2483ee0e03e930f6f68dd20.jpg</file>
+    <file>icons/Backgrounds/e44462dc8162df0c955b1f2d8363adc9.jpg</file>
+    <file>icons/Backgrounds/Mediamodifier-Design-Template.png</file>
+    <file>icons/Backgrounds/Screenshot (24).png</file>
+    <file>icons/Backgrounds/Screenshot (25).png</file>
+    <file>icons/Backgrounds/Screenshot (26).png</file>
+    <file>icons/Backgrounds/Screenshot (27).png</file>
+    <file>icons/Backgrounds/white-canyon-6c5d2a4c.jpg</file>
+    <file>icons/menu/Screenshot (29).png</file>
+    <file>icons/menu/Screenshot (29).png</file>
+    <file>icons/menu/Screenshot (30).png</file>
+    <file>icons/menu/Screenshot (31) - Copy.png</file>
+    <file>icons/menu/Screenshot (32).png</file>
+    <file>icons/Backgrounds/Mediamodifier-Design-Template.png</file>
+    <file>icons/Backgrounds/cool-background.svg</file>
+    <file>icons/Backgrounds/bg1.png</file>
+    <file>icons/Backgrounds/0bc7c93ca574adc4d9049800c765f2ef.jpg</file>
+    <file>icons/Backgrounds/1cfc9e64a097a5f5a31389fe583563a9.jpg</file>
+    <file>icons/Backgrounds/2b9f1919d9ee50fc5784b3339b06ab35.jpg</file>
+    <file>icons/Backgrounds/4ed167554b47958c93558dfb4700bec8.jpg</file>
+    <file>icons/Backgrounds/22f9ac7cd2eeec31cf296bb991daa89b.jpg</file>
+    <file>icons/Backgrounds/9340c174fee0a1971f1fe777854d233e.jpg</file>
+    <file>icons/Backgrounds/d820a964e2483ee0e03e930f6f68dd20.jpg</file>
+    <file>icons/Backgrounds/e44462dc8162df0c955b1f2d8363adc9.jpg</file>
+    <file>icons/Backgrounds/Screenshot (24).png</file>
+    <file>icons/Backgrounds/Screenshot (25).png</file>
+    <file>icons/Backgrounds/Screenshot (26).png</file>
+    <file>icons/Backgrounds/Screenshot (27).png</file>
+    <file>photo_2021-02-15_13-24-42.png</file>
+    <file>icons/menu/Screenshot (29).png</file>
+    <file>icons/menu/Screenshot (30).png</file>
+    <file>icons/menu/Screenshot (31) - Copy.png</file>
+    <file>icons/menu/Screenshot (31).png</file>
+    <file>icons/menu/Screenshot (32).png</file>
+    <file>icons/Backgrounds/Screenshot (24).png</file>
+    <file>icons/Backgrounds/Screenshot (25).png</file>
+    <file>icons/Backgrounds/Screenshot (26).png</file>
+    <file>icons/Backgrounds/Screenshot (27).png</file>
+    <file>icons/Backgrounds/1abaabc7e76f9f4880dc2de77af979d9.jpg</file>
+    <file>icons/Backgrounds/8f3e40609194422fda6654c22ebe9c09.jpg</file>
+    <file>icons/Backgrounds/32cc1def1b4fefae1a279300ddac71fc.jpg</file>
+    <file>icons/Backgrounds/68b7e332736b1953a4bd11e72675bf17.jpg</file>
+    <file>icons/Backgrounds/633af1ac765901ebbfa0da21ec4aa4c6.jpg</file>
+    <file>icons/Backgrounds/a1b15e9bec8bcdc17d648c22dc344ea4.jpg</file>
+    <file>icons/Backgrounds/cb528ee23dd3869fd0cad35e19a9d8f1.jpg</file>
+    <file>icons/Backgrounds/e8e0aa5dd9dd6b5b63c61b85f426339b.jpg</file>
+    <file>icons/Backgrounds/shot-cropped-1587207558655.jpg</file>
+    <file>icons/Backgrounds/shot-cropped-1588060849037.jpg</file>
+    <file>icons/Backgrounds/shot-cropped-1588060849037.webp</file>
+    <file>icons/Backgrounds/68b7e332736b1953a4bd11e72675bf17.jpg</file>
+    <file>icons/Backgrounds/shot-cropped-1587207558655.jpg</file>
+    <file>icons/Backgrounds/shot-cropped-1588060849037.jpg</file>
+    <file>icons/Backgrounds/shot-cropped-1588060849037.webp</file>
+    <file>icons/Screenshot (22).png</file>
+    <file>icons/Screenshot (21).png</file>
+    <file>IMG_20210210_181147.jpg</file>
+    <file>icons/8_12_14 Clouds at sunset.jfif</file>
+    <file>icons/More/111846-email-console/png/add-email.png</file>
+    <file>icons/More/111846-email-console/png/add-image.png</file>
+    <file>icons/More/111846-email-console/png/archive.png</file>
+    <file>icons/More/111846-email-console/png/attach.png</file>
+    <file>icons/More/111846-email-console/png/attached-files.png</file>
+    <file>icons/More/111846-email-console/png/business-email.png</file>
+    <file>icons/More/111846-email-console/png/contacts.png</file>
+    <file>icons/More/111846-email-console/png/contacts-1.png</file>
+    <file>icons/More/111846-email-console/png/delete-email.png</file>
+    <file>icons/More/111846-email-console/png/edit-email.png</file>
+    <file>icons/More/111846-email-console/png/email.png</file>
+    <file>icons/More/111846-email-console/png/email-1.png</file>
+    <file>icons/More/111846-email-console/png/email-2.png</file>
+    <file>icons/More/111846-email-console/png/email-3.png</file>
+    <file>icons/More/111846-email-console/png/email-4.png</file>
+    <file>icons/More/111846-email-console/png/email-5.png</file>
+    <file>icons/More/111846-email-console/png/email-6.png</file>
+    <file>icons/More/111846-email-console/png/email-7.png</file>
+    <file>icons/More/111846-email-console/png/email-8.png</file>
+    <file>icons/More/111846-email-console/png/email-9.png</file>
+    <file>icons/More/111846-email-console/png/email-10.png</file>
+    <file>icons/More/111846-email-console/png/email-11.png</file>
+    <file>icons/More/111846-email-console/png/email-12.png</file>
+    <file>icons/More/111846-email-console/png/email-13.png</file>
+    <file>icons/More/111846-email-console/png/email-14.png</file>
+    <file>icons/More/111846-email-console/png/email-15.png</file>
+    <file>icons/More/111846-email-console/png/email-16.png</file>
+    <file>icons/More/111846-email-console/png/email-17.png</file>
+    <file>icons/More/111846-email-console/png/email-18.png</file>
+    <file>icons/More/111846-email-console/png/email-on-phone.png</file>
+    <file>icons/More/111846-email-console/png/email-on-watch.png</file>
+    <file>icons/More/111846-email-console/png/email-support-team.png</file>
+    <file>icons/More/111846-email-console/png/folder.png</file>
+    <file>icons/More/111846-email-console/png/inbox.png</file>
+    <file>icons/More/111846-email-console/png/laptop.png</file>
+    <file>icons/More/111846-email-console/png/letter.png</file>
+    <file>icons/More/111846-email-console/png/link.png</file>
+    <file>icons/More/111846-email-console/png/new-message.png</file>
+    <file>icons/More/111846-email-console/png/outbox.png</file>
+    <file>icons/More/111846-email-console/png/print.png</file>
+    <file>icons/More/111846-email-console/png/screen.png</file>
+    <file>icons/More/111846-email-console/png/search-contacts.png</file>
+    <file>icons/More/111846-email-console/png/send-email.png</file>
+    <file>icons/More/111846-email-console/png/sending-email.png</file>
+    <file>icons/More/111846-email-console/png/settings.png</file>
+    <file>icons/More/111846-email-console/png/spam-filter.png</file>
+    <file>icons/More/111846-email-console/png/statistics.png</file>
+    <file>icons/More/111846-email-console/png/tag.png</file>
+    <file>icons/More/111846-email-console/png/trash.png</file>
+    <file>icons/More/111846-email-console/png/write.png</file>
+    <file>IMG_20210210_181147.jpg</file>
+    <file>photo_2021-02-10_19-15-11.jpg</file>
+    <file>icons/cil-3d.png</file>
+    <file>icons/cil-4k.png</file>
+    <file>icons/cil-airplay.png</file>
+    <file>icons/cil-arrow-bottom.png</file>
+    <file>icons/cil-arrow-circle-bottom.png</file>
+    <file>icons/cil-arrow-circle-left.png</file>
+    <file>icons/cil-arrow-circle-right.png</file>
+    <file>icons/cil-arrow-circle-top.png</file>
+    <file>icons/cil-arrow-left.png</file>
+    <file>icons/cil-arrow-right.png</file>
+    <file>icons/cil-arrow-top.png</file>
+    <file>icons/cil-browser.png</file>
+    <file>icons/cil-camera.png</file>
+    <file>icons/cil-camera-roll.png</file>
+    <file>icons/cil-chart-line.png</file>
+    <file>icons/cil-check.png</file>
+    <file>icons/cil-check-alt.png</file>
+    <file>icons/cil-check-circle.png</file>
+    <file>icons/cil-chevron-bottom.png</file>
+    <file>icons/cil-chevron-circle-left-alt.png</file>
+    <file>icons/cil-chevron-circle-right-alt.png</file>
+    <file>icons/cil-chevron-circle-up-alt.png</file>
+    <file>icons/cil-chevron-double-up-alt.png</file>
+    <file>icons/cil-code.png</file>
+    <file>icons/cil-comment-bubble.png</file>
+    <file>icons/cil-comment-square.png</file>
+    <file>icons/cil-copy.png</file>
+    <file>icons/cil-credit-card.png</file>
+    <file>icons/cil-cursor.png</file>
+    <file>icons/cil-cursor-move.png</file>
+    <file>icons/cil-description.png</file>
+    <file>icons/cil-dialpad.png</file>
+    <file>icons/cil-envelope-closed.png</file>
+    <file>icons/cil-envelope-letter.png</file>
+    <file>icons/cil-envelope-open.png</file>
+    <file>icons/cil-equalizer.png</file>
+    <file>icons/cil-exit-to-app.png</file>
+    <file>icons/cil-exposure.png</file>
+    <file>icons/cil-external-link.png</file>
+    <file>icons/cil-file.png</file>
+    <file>icons/cil-folder.png</file>
+    <file>icons/cil-folder-open.png</file>
+    <file>icons/cil-fullscreen.png</file>
+    <file>icons/cil-fullscreen-exit.png</file>
+    <file>icons/cil-gamepad.png</file>
+    <file>icons/cil-hand-point-down.png</file>
+    <file>icons/cil-hand-point-left.png</file>
+    <file>icons/cil-hand-point-right.png</file>
+    <file>icons/cil-hand-point-up.png</file>
+    <file>icons/cil-headphones.png</file>
+    <file>icons/cil-heart.png</file>
+    <file>icons/cil-home.png</file>
+    <file>icons/cil-https.png</file>
+    <file>icons/cil-image1.png</file>
+    <file>icons/cil-image-plus.png</file>
+    <file>icons/cil-infinity.png</file>
+    <file>icons/cil-input.png</file>
+    <file>icons/cil-justify-center.png</file>
+    <file>icons/cil-justify-left.png</file>
+    <file>icons/cil-justify-right.png</file>
+    <file>icons/cil-library.png</file>
+    <file>icons/cil-library-add.png</file>
+    <file>icons/cil-lightbulb.png</file>
+    <file>icons/cil-link.png</file>
+    <file>icons/cil-link-alt.png</file>
+    <file>icons/cil-link-broken.png</file>
+    <file>icons/cil-list.png</file>
+    <file>icons/cil-location-pin.png</file>
+    <file>icons/cil-lock-locked.png</file>
+    <file>icons/cil-lock-unlocked.png</file>
+    <file>icons/cil-loop.png</file>
+    <file>icons/cil-loop-circular.png</file>
+    <file>icons/cil-media-eject.png</file>
+    <file>icons/cil-media-pause.png</file>
+    <file>icons/cil-media-play.png</file>
+    <file>icons/cil-media-record.png</file>
+    <file>icons/cil-media-skip-backward.png</file>
+    <file>icons/cil-media-skip-forward.png</file>
+    <file>icons/cil-media-step-backward.png</file>
+    <file>icons/cil-media-step-forward.png</file>
+    <file>icons/cil-media-stop.png</file>
+    <file>icons/cil-medical-cross.png</file>
+    <file>icons/cil-meh.png</file>
+    <file>icons/cil-menu.png</file>
+    <file>icons/cil-microphone.png</file>
+    <file>icons/cil-minus.png</file>
+    <file>icons/cil-mobile.png</file>
+    <file>icons/cil-mobile-landscape.png</file>
+    <file>icons/cil-monitor.png</file>
+    <file>icons/cil-mood-bad.png</file>
+    <file>icons/cil-mood-good.png</file>
+    <file>icons/cil-mood-very-bad.png</file>
+    <file>icons/cil-mood-very-good.png</file>
+    <file>icons/cil-moon.png</file>
+    <file>icons/cil-mouse.png</file>
+    <file>icons/cil-mouth-slash.png</file>
+    <file>icons/cil-move.png</file>
+    <file>icons/cil-movie.png</file>
+    <file>icons/cil-mug-tea.png</file>
+    <file>icons/cil-music-note.png</file>
+    <file>icons/cil-newspaper.png</file>
+    <file>icons/cil-notes.png</file>
+    <file>icons/cil-object-ungroup.png</file>
+    <file>icons/cil-options.png</file>
+    <file>icons/cil-options-horizontal.png</file>
+    <file>icons/cil-paint-bucket.png</file>
+    <file>icons/cil-paperclip.png</file>
+    <file>icons/cil-paper-plane.png</file>
+    <file>icons/cil-pencil.png</file>
+    <file>icons/cil-people.png</file>
+    <file>icons/cil-pin.png</file>
+    <file>icons/cil-plus.png</file>
+    <file>icons/cil-power-standby.png</file>
+    <file>icons/cil-print.png</file>
+    <file>icons/cil-rain.png</file>
+    <file>icons/cil-reload.png</file>
+    <file>icons/cil-remove.png</file>
+    <file>icons/cil-rss.png</file>
+    <file>icons/cil-satelite.png</file>
+    <file>icons/cil-save.png</file>
+    <file>icons/cil-screen-desktop.png</file>
+    <file>icons/cil-settings.png</file>
+    <file>icons/cil-smile.png</file>
+    <file>icons/cil-speech.png</file>
+    <file>icons/cil-speedometer.png</file>
+    <file>icons/cil-star.png</file>
+    <file>icons/cil-swap-horizontal.png</file>
+    <file>icons/cil-swap-vertical.png</file>
+    <file>icons/cil-tag.png</file>
+    <file>icons/cil-task.png</file>
+    <file>icons/cil-terminal.png</file>
+    <file>icons/cil-thumb-down.png</file>
+    <file>icons/cil-thumb-up.png</file>
+    <file>icons/cil-touch-app.png</file>
+    <file>icons/cil-transfer.png</file>
+    <file>icons/cil-trash.png</file>
+    <file>icons/cil-truck.png</file>
+    <file>icons/cil-user.png</file>
+    <file>icons/cil-user-female.png</file>
+    <file>icons/cil-user-follow.png</file>
+    <file>icons/cil-user-unfollow.png</file>
+    <file>icons/cil-vertical-align-bottom.png</file>
+    <file>icons/cil-vertical-align-center.png</file>
+    <file>icons/cil-vertical-align-top.png</file>
+    <file>icons/cil-video.png</file>
+    <file>icons/cil-view-column.png</file>
+    <file>icons/cil-view-module.png</file>
+    <file>icons/cil-view-quilt.png</file>
+    <file>icons/cil-view-stream.png</file>
+    <file>icons/cil-voice-over-record.png</file>
+    <file>icons/cil-volume-high.png</file>
+    <file>icons/cil-volume-low.png</file>
+    <file>icons/cil-volume-off.png</file>
+    <file>icons/cil-wallet.png</file>
+    <file>icons/cil-wallpaper.png</file>
+    <file>icons/cil-watch.png</file>
+    <file>icons/cil-wifi-signal-0.png</file>
+    <file>icons/cil-wifi-signal-1.png</file>
+    <file>icons/cil-wifi-signal-off.png</file>
+    <file>icons/cil-window-maximize.png</file>
+    <file>icons/cil-window-minimize.png</file>
+    <file>icons/cil-window-restore.png</file>
+    <file>icons/cil-x.png</file>
+    <file>icons/cil-x-circle.png</file>
+    <file>icons/cil-zoom-in.png</file>
+    <file>icons/cil-zoom-out.png</file>
+  </qresource>
+</RCC>
